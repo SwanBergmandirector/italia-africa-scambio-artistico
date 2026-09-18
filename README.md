@@ -1,5 +1,24 @@
 # Piattaforma di scambio artistico-culturale Italia-Africa
 
+Sito Next.js che presenta il progetto. Deploy automatico su Netlify a
+ogni push sul branch `main`.
+
+## Sviluppo locale
+
+```bash
+npm install
+npm run dev
+```
+
+Apri [http://localhost:3000](http://localhost:3000).
+
+## Build di produzione
+
+```bash
+npm run build
+npm run start
+```
+
 ## Introduzione
 
 Le nuove tecnologie digitali diventano il linguaggio comune attraverso cui
